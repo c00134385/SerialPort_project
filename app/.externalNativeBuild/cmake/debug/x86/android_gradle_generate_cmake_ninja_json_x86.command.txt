@@ -1,0 +1,14 @@
+Executable : C:\Users\201708\AppData\Local\Android\Sdk\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+-HD:\github\test\SerialPort_project\app\src\main\jni
+-BD:\github\test\SerialPort_project\app\.externalNativeBuild\cmake\debug\x86
+-DANDROID_ABI=x86
+-DANDROID_PLATFORM=android-21
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=D:\github\test\SerialPort_project\app\build\intermediates\cmake\debug\obj\x86
+-DCMAKE_BUILD_TYPE=Debug
+-DANDROID_NDK=C:\Users\201708\AppData\Local\Android\Sdk\ndk-bundle
+-DCMAKE_TOOLCHAIN_FILE=C:\Users\201708\AppData\Local\Android\Sdk\ndk-bundle\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=C:\Users\201708\AppData\Local\Android\Sdk\cmake\3.6.4111459\bin\ninja.exe
+-GAndroid Gradle - Ninja
+jvmArgs : 
+

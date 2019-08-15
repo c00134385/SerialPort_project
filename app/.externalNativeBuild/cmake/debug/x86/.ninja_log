@@ -1,0 +1,5 @@
+# ninja log v5
+0	153	0	CMakeFiles/serial_port.dir/SerialPort.c.o	3135464c5c459fb6
+154	259	0	D:/github/test/SerialPort_project/app/src/main/jniLibs/x86/libserial_port.so	22a8c2fecbed4c54
+2	138	0	CMakeFiles/serial_port.dir/SerialPort.c.o	3135464c5c459fb6
+138	224	0	D:/github/test/SerialPort_project/app/build/intermediates/cmake/debug/obj/x86/libserial_port.so	952e174b023e78eb

@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "D:\\github\\test\\SerialPort_project\\app\\src\\main\\jni\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\201708\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\github\\test\\SerialPort_project\\app\\.externalNativeBuild\\cmake\\release\\x86_64 --target clean"
+  ],
+  "libraries": {
+    "serial_port-Release-x86_64": {
+      "artifactName": "serial_port",
+      "buildCommand": "C:\\Users\\201708\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\github\\test\\SerialPort_project\\app\\.externalNativeBuild\\cmake\\release\\x86_64 --target serial_port",
+      "abi": "x86_64",
+      "output": "D:\\github\\test\\SerialPort_project\\app\\build\\intermediates\\cmake\\release\\obj\\x86_64\\libserial_port.so"
+    }
+  }
+}

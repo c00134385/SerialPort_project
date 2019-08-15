@@ -1,0 +1,38 @@
+
+{
+	"buildFiles" : [ "D:/github/test/SerialPort_project/app/src/main/jni/CMakeLists.txt" ],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"C:\\Users\\201708\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\github\\test\\SerialPort_project\\app\\.externalNativeBuild\\cmake\\release\\arm64-v8a --target clean"
+	],
+	"libraries" : 
+	{
+		"serial_port-Release-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "serial_port",
+			"buildCommand" : "C:\\Users\\201708\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\github\\test\\SerialPort_project\\app\\.externalNativeBuild\\cmake\\release\\arm64-v8a --target serial_port",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/201708/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/201708/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dserial_port_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC      -c ",
+					"src" : "D:/github/test/SerialPort_project/app/src/main/jni/SerialPort.c",
+					"workingDirectory" : "D:/github/test/SerialPort_project/app/.externalNativeBuild/cmake/release/arm64-v8a"
+				}
+			],
+			"output" : "D:/github/test/SerialPort_project/app/build/intermediates/cmake/release/obj/arm64-v8a/libserial_port.so",
+			"toolchain" : "3538233481"
+		}
+	},
+	"toolchains" : 
+	{
+		"3538233481" : 
+		{
+			"cCompilerExecutable" : "C:/Users/201708/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "C:/Users/201708/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

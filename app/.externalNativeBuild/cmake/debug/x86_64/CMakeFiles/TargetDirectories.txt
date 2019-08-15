@@ -1,0 +1,3 @@
+D:/github/test/SerialPort_project/app/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/rebuild_cache.dir
+D:/github/test/SerialPort_project/app/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/serial_port.dir
+D:/github/test/SerialPort_project/app/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/edit_cache.dir
